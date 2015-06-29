@@ -1,0 +1,23 @@
+{
+    "name": "ng-jsonrpc",
+    "version": "1.0.0",
+    "authors": [
+        "EduClever <tech@educlerver.com>"
+    ],
+    "main": [
+        "ng-jsonrpc.min.js"
+    ],
+    "description": "Educlever JSON-RPC client for AngularJS 1.x",
+    "keywords": [
+        "educlever",
+        "json-rpc"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
