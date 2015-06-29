@@ -1,0 +1,21 @@
+{
+    "name": "ng-jsonrpc",
+    "version": "1.0.0",
+    "description": "Angular 1.x JSON-RPC client of Educlever",
+    "main": "ng-jsonrpc.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/educlever/ng-jsonrpc.git"
+    },
+    "author": "EduClever <tech@educlerver.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/educlever/ng-jsonrpc/issues"
+    },
+    "homepage": "https://github.com/educlever/ng-jsonrpc",
+    "dependencies": {
+        "gulp-rename": "^1.2.0",
+        "gulp-uglify": "^1.1.0",
+        "gulp-util": "^3.0.4"
+    }
+}
